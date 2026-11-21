@@ -3,7 +3,7 @@
   "name": "real-estate-offers-livewire",
   "display_name": "Real Estate Offers Livewire",
   "description": "Livewire component for team-scoped offers.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\OffersLivewire\\OffersLivewireServiceProvider",
   "requires": {
